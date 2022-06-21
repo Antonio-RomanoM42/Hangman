@@ -1,0 +1,12 @@
+bottle
+bucket
+player
+building
+computer
+house
+telephone
+dog
+sunglasses
+mirror
+door
+letter
